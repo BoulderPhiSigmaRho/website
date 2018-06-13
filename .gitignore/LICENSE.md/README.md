@@ -1,2 +1,0 @@
-# website
-Sorority website code
